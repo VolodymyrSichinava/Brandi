@@ -1,0 +1,20 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+) !default;
+
+$navbar-light-color: #1ea78d;
+$navbar-light-toggler-border-color: #1ea78d;
+$navbar-light-active-color: #ffffff;
+$navbar-padding-x: 0;
+$navbar-padding-y: 0;
+
+$secondary: transparent;
+$btn-padding-y: 3.5px;
+$btn-padding-x: 18.5px;
+$btn-font-weight: 700;
+$btn-border-radius: 5px;
+$btn-font-size: 14px;
+$btn-font-family:  'Open Sans', sans-serif;
